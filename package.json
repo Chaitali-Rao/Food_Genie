@@ -1,0 +1,24 @@
+{
+  "name": "food-genie-root",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Food Genie - AI-powered Food Ordering Platform (MERN)",
+  "scripts": {
+    "server": "npm --prefix server run dev",
+    "server:start": "npm --prefix server start",
+    "client": "npm --prefix client run dev",
+    "client:build": "npm --prefix client run build",
+    "test:server": "npm --prefix server test"
+  },
+  "keywords": [
+    "food-ordering",
+    "mern",
+    "ai",
+    "react",
+    "express",
+    "mongodb"
+  ],
+  "author": "",
+  "license": "ISC"
+}
+
